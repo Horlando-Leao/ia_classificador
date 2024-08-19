@@ -1,0 +1,47 @@
+# LABEL_TAG_BUSCAR_INFORMACOES
+
+- Solicitar informações sobre produtos ou serviços.
+- Pedir detalhes sobre horários de funcionamento, localização ou contato.
+- Buscar informações sobre políticas da empresa (trocas, devoluções, garantias).
+
+# LABEL_TAG_REALIZAR_TRANSACOES
+
+- Fazer compras ou reservas.
+- Solicitar cotações ou orçamentos.
+- Pagar contas ou fazer transferências.
+- Boleto ou pagamentos
+
+# LABEL_TAG_ASSISTENCIA_TECNICA
+
+- Reportar problemas técnicos.
+- Solicitar suporte para configurar ou usar produtos.
+- Pedir ajuda para resolver erros ou bugs.
+
+# LABEL_TAG_ACOMPANHAMENTO_DE_PEDIDOS
+
+- Verificar o status de um pedido ou entrega.
+- Solicitar atualizações sobre envios ou rastreamento.
+
+# LABEL_TAG_SUPORTE_AO_CLIENTE
+
+- Registrar reclamações ou feedbacks.
+- Pedir ajuda para resolver problemas com produtos ou serviços.
+- Solicitar informações sobre programas de fidelidade ou recompensas.
+
+# LABEL_TAG_QUESTOES_ADMINISTRATIVAS
+
+- Atualizar informações pessoais ou de conta.
+- Recuperar senhas ou nomes de usuário.
+- Solicitar cancelamentos de contas ou serviços.
+
+# LABEL_TAG_INTERACAO_SOCIAL
+
+- Fazer perguntas triviais ou pessoais (p. ex., piadas, curiosidades).
+- Buscar recomendações ou sugestões.
+- Participar de jogos ou quizzes interativos.
+
+# LABEL_TAG_EDUCACAO_E_TREINAMENTO
+
+- Solicitar materiais de estudo ou treinamento.
+- Fazer perguntas sobre tópicos educacionais.
+- Buscar ajuda com lições de casa ou projetos.
